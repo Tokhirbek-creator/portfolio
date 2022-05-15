@@ -18,7 +18,7 @@
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
 
-  --trasition: all 400ms ease;
+  --transition: all 400ms ease;
 
   --container-width-lg: 75%;
   --container-width-md: 86%;
@@ -69,7 +69,7 @@ section > h2, section > h5 {
 
 section > h2 {
   color: var(--color-primary);
-  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
 .text-light {

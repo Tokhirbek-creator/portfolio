@@ -41,10 +41,10 @@ header {
 /* ================== PHOTO ================= */
 
 .me {
-  width: 21rem;
-  height: 35rem;
+  width: 22rem;
+  height: 30rem;
   position: absolute;
-  left: calc(50% - 10.5rem);
+  left: calc(50% - 11rem);
   margin-top: 4rem;
 }
 
@@ -69,7 +69,7 @@ header {
 /* =============== MEDIA QUERIES (SMALL DEVICES)====================== */
 @media screen and (max-width: 600px) {
   header {
-    height: 101vh;
+    height: 95vh;
   }
 
   .header__socials, .scroll__down {
