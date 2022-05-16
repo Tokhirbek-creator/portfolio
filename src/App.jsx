@@ -7,7 +7,7 @@ import Header from './components/header/Header';
 import Nav from './components/nav/Nav';
 import Portfolio from './components/portfolio/Portfolio';
 import Services from './components/services/Services';
-import Testimonials from './components/testimonials/Testimonials';
+import Achievements from './components/achievements/Achievements';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
       <Experience />
       <Services />
       <Portfolio />
-      <Testimonials />
+      <Achievements />
       <Contact />
       <Footer />
     </>
