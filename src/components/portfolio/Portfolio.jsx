@@ -14,19 +14,19 @@ function Portfolio() {
       github: 'https://github.com/',
     },
     {
-      id: 1,
+      id: 2,
       image: IMG2,
       title: 'This is a portfolio item',
       github: 'https://github.com/',
     },
     {
-      id: 1,
+      id: 3,
       image: IMG3,
       title: 'This is a portfolio item',
       github: 'https://github.com/',
     },
     {
-      id: 1,
+      id: 4,
       image: IMG4,
       title: 'This is a portfolio item',
       github: 'https://github.com/',

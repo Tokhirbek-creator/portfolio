@@ -25,5 +25,6 @@ module.exports = {
     'jsx-a11y/control-has-associated-label': 0,
     'jsx-a11y/anchor-is-valid': 0,
     'import/no-duplicates': 0,
+    'import/no-unresolved': 0,
   },
 };
