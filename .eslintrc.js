@@ -26,5 +26,6 @@ module.exports = {
     'jsx-a11y/anchor-is-valid': 0,
     'import/no-duplicates': 0,
     'import/no-unresolved': 0,
+    'max-len': 0,
   },
 };
