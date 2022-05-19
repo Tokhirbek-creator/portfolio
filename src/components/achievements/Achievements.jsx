@@ -17,21 +17,21 @@ const data = [
     id: 1,
     logo: AVTR1,
     name: 'Elbrus Bootcamp',
-    about: 'Lorem ipsum dolor,consectetur adipisicing elit.Nihil omnis quidem iusto libero debitis.',
+    about: 'Finished (Conquered) training at Elbrus Bootcamp as a FullStack JavaScript Developer.',
     file: CV1,
   },
   {
     id: 2,
     logo: AVTR2,
     name: 'High School of Economics',
-    about: 'Lorem ipsum dolor,consectetur adipisicing elit.Nihil omnis quidem iusto libero debitis.',
+    about: '2nd place winner in Mathematics at the International Youth Olympiad (High School of Economics) in 2021.',
     file: CV2,
   },
   {
     id: 3,
     logo: AVTR3,
     name: 'UiPath: Automation Platform',
-    about: 'Lorem ipsum dolor,consectetur adipisicing elit.Nihil omnis quidem iusto libero debitis.',
+    about: 'Finished a beginner\'s course in RPA development and tried the actual process of creating automation.',
     file: CV3,
   },
 ];
@@ -39,7 +39,6 @@ const data = [
 function Achievements() {
   return (
     <section id="achievements">
-      <h5>Review from clients</h5>
       <h2>My Achievements</h2>
 
       <Swiper

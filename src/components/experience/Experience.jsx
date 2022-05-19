@@ -50,7 +50,11 @@ function Experience() {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Redux</h4>
+                <h4>
+                  Redux
+                  <br />
+                  (Saga, Thunk, Toolkit)
+                </h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -85,6 +89,34 @@ function Experience() {
               <div>
                 <h4>MySQL</h4>
                 <small className="text-light">Basic</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Sequelize</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>WebSockets</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Express</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>SQL</h4>
+                <small className="text-light">Experienced</small>
               </div>
             </article>
           </div>

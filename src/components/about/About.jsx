@@ -40,13 +40,27 @@ function About() {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-            sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua.
-            Ut enim ad minim veniam, quis nostrud exercitation
-            ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            Duis aute irure dolor in reprehenderit
-            in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            I am engaged in
+            {' '}
+            <strong>frontend</strong>
+            {' '}
+            and
+            {' '}
+            <strong>backend</strong>
+            {' '}
+            development for more than a year.
+            I have experience in implementing various projects, which you can see at:
+            {' '}
+            <a href="https://github.com/Tokhirbek-creator">github.com/Tokhirbek-creator</a>
+            <br />
+            <br />
+            I strive to develop complex services, create visually appealing projects,
+            translate static content into interactive web applications,
+            as well as deal with the software and administrative part of the web application, the system's internal content,
+            server technologies, database, architecture, software logic.
+            <br />
+            <br />
+            About life: I like cats, math, traveling, sunset, etc.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
