@@ -7,7 +7,7 @@ import { RiContactsBook2Fill } from 'react-icons/ri';
 function Footer() {
   return (
     <footer>
-      <a href="#" className="footer__logo">MARK</a>
+      <a href="#" className="footer__logo">karamattov</a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
@@ -32,7 +32,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Tokhirbek Tutorials. All rights reserved.</small>
+        <small>&copy; karamattov Tutorials. All rights reserved.</small>
       </div>
     </footer>
   );
