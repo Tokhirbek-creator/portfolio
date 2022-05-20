@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ae091e29.css",
+    "main.js": "/portfolio/static/js/main.3ae58833.js",
+    "static/media/EBC-certificate-Karamatov.tif": "/portfolio/static/media/EBC-certificate-Karamatov.cc59c265dfeaf38e95c3.tif",
+    "static/media/LearningPath_Certificate_Karamatov_Tokhirbek.pdf": "/portfolio/static/media/LearningPath_Certificate_Karamatov_Tokhirbek.58afc6480ea430579cf5.pdf",
+    "static/media/me-about.jpg": "/portfolio/static/media/me-about.e5a837b1b21c258c98aa.jpg",
+    "static/media/me.jpg": "/portfolio/static/media/me.9b405e69d22e0f529bee.jpg",
+    "static/media/CVru.pdf": "/portfolio/static/media/CVru.a862c29801f7d9a2d037.pdf",
+    "static/media/Diploma_HSE_Karamatov_Tokhirbek.pdf": "/portfolio/static/media/Diploma_HSE_Karamatov_Tokhirbek.f7a8783a136bc7445c5e.pdf",
+    "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.ccbacf62619f9ff10b23.png",
+    "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.472acd99cf8b54f4fb0b.png",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.96f906815badf1ae93ad.jpg",
+    "static/media/CVeng.pdf": "/portfolio/static/media/CVeng.c5cf92ce12c8557b735d.pdf",
+    "static/media/portfolio4.png": "/portfolio/static/media/portfolio4.579f4163dad8d4364477.png",
+    "static/media/logo3.jpg": "/portfolio/static/media/logo3.1b90db0ec0269ee7a73c.jpg",
+    "static/media/logo2.svg": "/portfolio/static/media/logo2.1174621596345585714239459111c0fb.svg",
+    "static/media/logo1.jpg": "/portfolio/static/media/logo1.69c9f90770ddba5522ab.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.ae091e29.css.map": "/portfolio/static/css/main.ae091e29.css.map",
+    "main.3ae58833.js.map": "/portfolio/static/js/main.3ae58833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae091e29.css",
+    "static/js/main.3ae58833.js"
+  ]
+}
