@@ -7,13 +7,13 @@ import Nav from './components/nav/Nav';
 import Portfolio from './components/portfolio/Portfolio';
 // import Services from './components/services/Services';
 import Achievements from './components/achievements/Achievements';
-// import Stars from './Stars';
+import Stars from './Stars';
 
 function App() {
   return (
     <>
       <Nav />
-      {/* <Stars /> */}
+      <Stars />
       <Header />
       <About />
       <Experience />

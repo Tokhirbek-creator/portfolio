@@ -32,7 +32,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; MARK Tutorials. All rights reserved.</small>
+        <small>&copy; Tokhirbek Tutorials. All rights reserved.</small>
       </div>
     </footer>
   );

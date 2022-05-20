@@ -30,6 +30,7 @@ class StarrySky extends React.Component {
       ],
       easing: 'linear',
       loop: true,
+
       delay: (el, i) => 50 * i,
     });
   };
@@ -55,6 +56,7 @@ class StarrySky extends React.Component {
         },
       ],
       translateX: 350,
+
     });
   };
 
@@ -73,7 +75,7 @@ class StarrySky extends React.Component {
     const { num } = this.state;
     return (
       <div id="App">
-        <svg id="sky">
+        <svg style={{ zIndex: '-1' }} id="sky">
           {[...Array(num)].map((x, y) => (
             <circle
               cx={this.getRandomX()}
@@ -87,7 +89,7 @@ class StarrySky extends React.Component {
             />
           ))}
         </svg>
-        <div id="shootingstars">
+        <div style={{ zIndex: '-1' }} id="shootingstars">
           {[...Array(60)].map((x, y) => (
             <div
               key={y}
